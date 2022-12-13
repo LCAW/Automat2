@@ -13,5 +13,4 @@ if(einwurf==1) {
 	printf("\nSie haben kein 1 Euro Stueck eingeworfen.\n");}
 return 0;
 }
-Footer
-© 2022 GitHub, Inc.
+
